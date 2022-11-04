@@ -4,13 +4,15 @@
 
 > 以Linux发行版本之一的Ubuntu为主题，描绘由某高中「系统管理同好会」的大家编织而成的搞笑闹剧。
 
-<center><h1>うぶんちゅ!</h1></center>
+<h1 align="center">うぶんちゅ!</h1>
 
-<center><h2>乌班啾！ <i>Ubunchu！</i></h2></center>
+<h2 align="center">乌班啾！ <i>Ubunchu！</i></h2>
 
 ## 关于本作品
 
 本作是由**瀬尾浩史**老师在2008-2012年于*Ubuntu Japanese Magazine*连载的搞笑漫画系列。作品围绕着ubuntu展开，描绘了一群第一次接触到这个系统的人们之间发生的各种趣事。
+
+## 目录
 
 ## 译者的话
 
