@@ -4,9 +4,9 @@
 
 > 以Linux发行版本之一的Ubuntu为主题，描绘由某高中「系统管理同好会」的大家编织而成的搞笑闹剧。
 
-<center /><h1 />うぶんちゅ!
+<center><h1>うぶんちゅ!</h1></center>
 
-<center /><h2 />乌班啾！ <i />Ubunchu！
+<center><h2>乌班啾！ <i>Ubunchu！</i></h2></center>
 
 ## 关于本作品
 
