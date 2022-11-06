@@ -37,10 +37,10 @@
 
 原作采用[*表示 - 非営利 2.1 日本 (CC BY-NC 2.1 JP)*](https://creativecommons.org/licenses/by-nc/2.1/jp/)许可协议：![CC-by-NC icon](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Cc_by-nc_icon.svg/100px-Cc_by-nc_icon.svg.png)
 
-> 　(1)原著作者のクレジットを表示する。  
-> 	(2)作品を営利目的では使用しない。
+>&nbsp;&nbsp;&nbsp;&nbsp;(1)原著作者のクレジットを表示する。  
+>&nbsp;&nbsp;&nbsp;&nbsp;(2)作品を営利目的では使用しない。
 >
-> 　上記の二つの条件に従う場合に限り、本作品を自由に複製、頒布、展示し、さらに二次的著作物を作成することができます。
+> 上記の二つの条件に従う場合に限り、本作品を自由に複製、頒布、展示し、さらに二次的著作物を作成することができます。
 
 关于翻译部分，采用[ *Do What The Fuck You Want To(WTFPL)*](http://www.wtfpl.net/about/#:~:text=YOU%20WANT%20TO.-,full%20license%20text,-DO%20WHAT%20THE)许可协议。
 
