@@ -42,7 +42,7 @@
 >
 > 上記の二つの条件に従う場合に限り、本作品を自由に複製、頒布、展示し、さらに二次的著作物を作成することができます。
 
-关于翻译部分，采用[ *Do What The Fuck You Want To(WTFPL)*](http://www.wtfpl.net/about/#:~:text=YOU%20WANT%20TO.-,full%20license%20text,-DO%20WHAT%20THE)许可协议。
+关于翻译部分，采用[ *Do What The Fuck You Want To(WTFPL)*](http://www.wtfpl.net/txt/copying/)许可协议。
 
 ## 译者的话
 
