@@ -16,7 +16,7 @@
 
 | 编号 | 原文标题 w/link                                              | 标题                                 | 发布日期  | 页码 |
 | ---- | ------------------------------------------------------------ | ------------------------------------ | --------- | ---- |
-| --   | [人物紹介]((http://www.aerialline.com/comics/ubunchu/))      | [人物介绍](./chapters/Characters.md) | --        | --   |
+| --   | [人物紹介](http://www.aerialline.com/comics/ubunchu/)      | [人物介绍](./chapters/Characters.md) | --        | --   |
 | Ch01 | [*うぶんちゅがやって来た！*](http://www.aerialline.com/comics/ubunchu/episode01) | [*乌班啾来了！*](./chapters/ch01/)   | Apr. 2008 | 1    |
 |      |                                                              |                                      |           |      |
 |      |                                                              |                                      |           |      |
