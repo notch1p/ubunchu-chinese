@@ -30,12 +30,12 @@
 
 ## 关于汉化
 
-感谢濑尾老师释出了psd文件**(您可以在上方目录的原文链接中找到)**，极大的降低了嵌字的难度。严格来说，网上大部分汉化都没有经过作者本人的同意，有侵权风险。难能可贵的是作者采用CC授权发布其作品，这得以让译者翻译本作品而无后顾之忧。汉化完全是出于译者自己的喜爱，而其翻译水准也是业余到不能再业余。如果出现任何生硬之处抑或是错解的文字，欢迎提issues。  
+感谢濑尾老师释出了psd文件 **(您可以在上方目录的原文链接中找到)**，极大的降低了嵌字的难度。严格来说，网上大部分汉化都没有经过作者本人的同意，有侵权风险。难能可贵的是作者采用CC授权发布其作品，这得以让译者翻译本作品而无后顾之忧。汉化完全是出于译者自己的喜爱，而其翻译水准也是业余到不能再业余。如果出现任何生硬之处抑或是错解的文字，欢迎提issues。  
 为了保证排版的统一性，正文一律采用繁体竖排。
 
 ## 关于著作权
 
-原作采用[*表示 - 非営利 2.1 日本 (CC BY-NC 2.1 JP)*](https://creativecommons.org/licenses/by-nc/2.1/jp/)许可协议：![CC-by-NC icon](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Cc_by-nc_icon.svg/100px-Cc_by-nc_icon.svg.png)
+原作采用[《表示 - 非営利 2.1 日本》 (CC BY-NC 2.1 JP)](https://creativecommons.org/licenses/by-nc/2.1/jp/)许可协议：<img src="https://user-images.githubusercontent.com/18750154/200164921-39c6a41c-abdc-46c9-b3a2-c662a652ce2b.png" alt="CC BY-NC 2.1" width="100"/>
 
 >&nbsp;&nbsp;&nbsp;&nbsp;(1)原著作者のクレジットを表示する。  
 >&nbsp;&nbsp;&nbsp;&nbsp;(2)作品を営利目的では使用しない。
